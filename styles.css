@@ -1,0 +1,85 @@
+/*master style */
+body{background-color: rgb(235, 98, 9);
+  font-family: 'Open Sans', Arial, sans-serif;
+text-align: center;
+font-size:19px;
+color:whitesmoke;
+
+}
+
+h1{margin:0; background-color: rgb(74, 74, 73);
+
+color:white;
+font-weight: bold;}
+/* navigation bar style*/
+.topnav {
+    background-color: rgb(235, 98, 9);
+    overflow: hidden;
+    padding:20px 20px;
+    transition: border-bottom 0.5s ;
+    border-bottom:1px solid transparent;
+    text-decoration: none;
+    text-transform: uppercase;
+  
+  }
+  .topnav a {
+    float: none;
+    display:inline-block;
+    color:white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    
+    transition: color 0.5s ;
+  }
+  .topnav :hover {
+    
+    color: rgb( 74, 74 ,73);
+    border-bottom: 1px solid rgb(74, 74, 73);}
+    .topnav a:hover {
+    
+      color: rgb( 74, 74 ,73);
+      
+      }
+    .topnav a.active {
+        
+        color:  rgb(74, 74, 73);
+         
+      }
+      /* home page opener style*/
+#opener{text-align: center;
+
+padding: 5px;
+max-width: 700px;
+margin: 0 auto 30px;
+}
+.portrait-pic{display: inline-block;
+max-width:250px;}
+/*contact page style*/
+h3 .contact-title{font-size: 30px;
+font-family: 'Open Sans', Arial, sans-serif;}
+input[type=text] {
+  transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+  width:27%;
+  
+}
+.social-media{text-decoration: none;
+color:white}
+/* portfolio layout style.*/
+.container{display:grid;
+grid-template-columns: 1fr;}
+.portfolio-wrapper{display: grid;
+grid-template-columns: 1fr 1fr 1fr;}
+.portfolio-individuals{position:relative;}
+.portfolio-background-img{ height:350px;
+width:100%;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+background-image: url("C:\Users\joshu\Documents\html learning\chris-wilson designs\Website\mars folder\mars background image.png");}
+.logo-wrapper{background-color: turquoise; max-height: 350px; max-width: 100%;}
+ 
