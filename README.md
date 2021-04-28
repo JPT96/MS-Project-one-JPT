@@ -51,4 +51,18 @@ I would like to change and update;
 
 For my technologies used it is very simple I used a library of images sent to me by the artist in question, language wise I only used HTML and CSS as outlined in the brief.
 
+## Testing
+
+For testing I went through a few things like the transition animations just to make sure that they all did the thing I wanted to do which was for each one to do it seperatley
+This was hard as putting the correct "</div>" in the right place was everything as the transition was targetting a class that the portfolio was built around.
+One issue I am still having is trying to seperate the Text from the portfolio image so that when the Image is hovered the Image fades out but I want the text to fade in
+So that it is more clear where to click to go to the next page for the portfolio selected.
+
+Testing out the "<a>" making sure that they were linked all to the right place was just a simple case of making sure that they were all leading to the right hyperlinks.
+And that the hyperlinks were fullfilling the purpose set to them, and making sure the right ones had the target="_blank" and the right ones simply sent you back to either
+ the portfolio, contact or home page. Whilst others lead to seperate portfolios, it quickly became apparent that for this website to work I couldn't incorporate thirteen target 
+ blanks as having thirteen tabs open for one singular portfolio website is far too much.
  
+ ## Deployment 
+ 
+ For deployment I became easy to go from the coding platform I used to github-gitpod as I use VS code the only issues I really ran into was changing the file target locations within the gitpod as the gitpod won't have access to my C: drive so I need to make it target the files within the gitpod to make it all work appropriatley.
