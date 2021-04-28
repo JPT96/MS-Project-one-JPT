@@ -46,4 +46,9 @@ I would like to change and update;
  * I would like to add the company logo as a background image behind every portfolio picture. 
  * I would like to add a interaction bar on either side of the webiste. 
  * I would like to actually impliment other langauges down the line to this project to make it more professional and ready for the real world
+
+## Technologies used
+
+For my technologies used it is very simple I used a library of images sent to me by the artist in question, language wise I only used HTML and CSS as outlined in the brief.
+
  
