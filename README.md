@@ -26,7 +26,7 @@ underlining itself but with a slight delay to create a nice feeling it makes it 
 of his portfolio, this allows the user to get a taste of what to expect from the website in question. I have alsp chosen these projects because it shows off the diverisity 
 of the artists in question.
 
-##Features.
+## Features.
 
 Going over the features within my project, I have few features within my website these include things such as a contact section, a bio and a entire 11 html files dedicated to the
 artists portfolio. Some features that have been pointed out and disscussed within the UI and UX section are the hover and active CSS elements I have added to improve both these
