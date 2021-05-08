@@ -232,3 +232,15 @@ transition: opacity 0.5s;}
 position:relative;
 z-index: 2;
 transition: opacity 0.5s;}
+
+/* media */
+@media screen and (max-width:1200px){ #flex-container{column-count: 5;}
+
+}
+@media screen and (max-width:950px){#flex-container{column-count: 3;
+  
+}
+@media screen and (max-width:800px){#flex-container{column-count: 2;
+  
+}}
+}
