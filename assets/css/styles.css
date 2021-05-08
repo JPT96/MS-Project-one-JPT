@@ -1,6 +1,8 @@
 /*master style */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=PT+Sans&display=swap');
+
 body{background-color: rgb(235, 98, 9);
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family:Lato,sans-serif;
 text-align: center;
 font-size:19px;
 color:whitesmoke;
@@ -8,9 +10,10 @@ color:whitesmoke;
 }
 
 h1{margin:0; background-color: rgb(74, 74, 73);
-
+font-family: PT sans,sans-serif;
 color:white;
 font-weight: bold;}
+h2{font-family: PT sans, sans-serif;}
 /* navigation bar style*/
 .topnav {
     background-color: rgb(235, 98, 9);
@@ -69,17 +72,163 @@ input[type=text]:focus {
 }
 .social-media{text-decoration: none;
 color:white}
+#sidebar li{list-style-type: none;}
+.sidebar {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: -250px;
+  background-color:#89CFF0;
+  overflow-x: hidden;
+  padding-top: 16px;
+  list-style-type: none;
+  text-decoration: none;
+  transition: all .5s ease;
+}
+.sidebar header{font-size: 25px;
+color:rgb(74, 74, 73);
+text-align: center;
+line-height: 65px;
+user-select: none;
+ list-style-type: none;}
+.sidebar a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: rgb(74, 74, 73);
+  display: block;
+  list-style-type: none;
+}
+.sidebar a:hover {
+  color: #f4c2c2; list-style-type: none;
+  list-style-type: none;
+}
+.sidebar ul a{display: block;
+height: 100%;
+width: auto;
+line-height: 25px;
+font-size: 20px;
+padding-right: 40px;
+box-sizing: border-box;
+border-top: 1px solid whitesmoke; 
+border-bottom: 1px solid whitesmoke;
+list-style-type: none;
+transition: .4s;
+}
+ul li:hover a{padding-left: 30px; }
+#check{display: none;
+}
+label #btn, label #cancel{position:absolute;
+cursor: pointer;
+background-color:#89CFF0 ;
+border-radius: 3px;}
+label #btn{left:40px;
+top:6px;
+font-size: 35px;
+color:rgb(235, 98, 9);
+padding: 6px 12px;
+transition: all .5s ;}
+label #cancel{
+  z-index: 1111;
+  left:-195px;
+  top:10px;
+  font-size: 30px;
+  color:rgb(235, 98, 9) ;
+  padding: 4px 9px;
+  transition: all .5s ease;
+}
+#check:checked ~ .sidebar{
+  left:0;
+}
+#check:checked ~ label #btn{left:250px;
+  opacity: 0;
+  pointer-events: none;
+}
+#check:checked ~ label #cancel{left:195px;}
 /* portfolio layout style.*/
+
 .container{display:grid;
 grid-template-columns: 1fr;}
 .portfolio-wrapper{display: grid;
 grid-template-columns: 1fr 1fr 1fr;}
-.portfolio-individuals{position:relative;}
-.portfolio-background-img{ height:350px;
-width:100%;
-background-size: cover;
-background-position: center;
-background-repeat: no-repeat;
-background-image: url("C:\Users\joshu\Documents\html learning\chris-wilson designs\Website\mars folder\mars background image.png");}
-.logo-wrapper{background-color: turquoise; max-height: 350px; max-width: 100%;}
- 
+.flex-container{display: flex;
+flex-wrap: wrap; text-decoration: none;}
+.flex-container > div { width: 300px;
+  margin: 30px;
+line-height: 75px;
+text-decoration: none;}
+.logo{
+  top: 0%;
+  left: 0%;
+  position:relative;
+  z-index: 2;
+  transition: opacity 0.5s;
+  text-decoration: none;
+} 
+
+
+
+.logo:hover  {
+  opacity: 0%;
+}
+/* project mars*/
+#marstext{text-decoration: none;
+color: white;
+opacity:100%;}
+
+
+/* eaton patisiere*/
+#eaton.logo {
+  position:relative;
+  z-index: 2;
+  transition: opacity 0.5s;}
+  
+  
+  /* infinity male grooming*/
+  #IMG.logo{
+position:relative;
+z-index: 2;
+transition: opacity 0.5s;}
+
+  /* super packaging */
+  #SP.logo {
+    position:relative;
+    z-index: 2;
+    transition: opacity 0.5s;}
+  /* fighting fit*/
+  #ff.logo{
+  position:relative;
+  z-index: 2;
+  transition: opacity 0.5s;}
+  
+  /* NASA 50th anniversary*/
+  #NASANN.logo {
+position:relative;
+z-index: 2;
+transition: opacity 0.5s;}
+
+  /* electronic frontier foundation*/
+  #EFF.logo {
+  position:relative;
+  z-index: 2;
+  transition: opacity 0.5s;}
+  
+  /*  reard and ready*/
+#RAR.logo  {
+  position:relative;
+  z-index: 2;
+  transition: opacity 0.5s;}
+  
+/* headland finance*/
+#HF.logo{
+position:relative;
+z-index: 2;
+transition: opacity 0.5s;}
+
+/* st sidwells point*/
+#SSP.logo{
+position:relative;
+z-index: 2;
+transition: opacity 0.5s;}
