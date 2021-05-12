@@ -185,7 +185,8 @@ opacity:100%;}
   position:relative;
   z-index: 2;
   transition: opacity 0.5s;}
-  
+ /* eaton images */
+#ep2{margin-bottom: 1250px;}
   
   /* infinity male grooming*/
   #IMG.logo{
@@ -215,6 +216,7 @@ transition: opacity 0.5s;}
   position:relative;
   z-index: 2;
   transition: opacity 0.5s;}
+  
   
   /*  reard and ready*/
 #RAR.logo  {
