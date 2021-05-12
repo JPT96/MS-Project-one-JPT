@@ -273,3 +273,6 @@ text-align: center center;}
 display:table;}}}}
 /* top nav media */
 @media screen and (max-width:450px){#myTopnav{display: grid;}}
+
+/* image media */
+@media screen and (max-width:450px){img{max-width: 250px;}}
