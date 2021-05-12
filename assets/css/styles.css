@@ -269,3 +269,5 @@ text-align: center center;}
 @media screen and (max-width:450px){#check, #btn, #cancel{margin-top: 60px;}
 @media screen and (max-width:450px){body{
 display:table;}}}}
+/* top nav media */
+@media screen and (max-width:450px){#myTopnav{display: grid;}}
