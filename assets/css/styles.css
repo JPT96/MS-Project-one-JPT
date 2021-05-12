@@ -257,15 +257,15 @@ text-align: center center;}
 }
 @media screen and (max-width:800px){#p{font-size: 18%;  
   text-align: center;
-  
-}}
+  @media screen and (max-width:450px){#p {font-size:40%;
+    text-align: center;}
 }
-@media screen and (max-width:450px){#p {font-size:18%;
-text-align: center;}}
+}}
+
 /* padding media */
 @media screen and (max-width:800px){#div{padding:15px;}}
 @media screen and (max-width:450px){#div{padding:15px;}}
 /* side nav media */
-@media screen and (max-width:450px){#check, #btn, #cancel{margin-top: 15px;}
-  
-}
+@media screen and (max-width:450px){#check, #btn, #cancel{margin-top: 60px;}
+@media screen and (max-width:450px){body{
+display:table;}}}}
