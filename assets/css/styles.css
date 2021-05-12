@@ -262,3 +262,5 @@ text-align: center center;}
 }
 @media screen and (max-width:450px){#p {font-size:10%;
 text-align: center;}}
+
+@media screen and (max-width:800px){#div{padding:15px;}}
