@@ -245,4 +245,4 @@ transition: opacity 0.5s;}
   
 }}
 }
-@media screen and (max-width:300px){#flex-colatiner{column-count:2;}}
+@media screen and (max-width:450px){#flex-colatiner{column-count:2;}}
