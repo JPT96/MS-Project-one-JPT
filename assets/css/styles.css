@@ -1,4 +1,5 @@
 /*master style */
+
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=PT+Sans&display=swap');
 
 body{background-color: rgb(235, 98, 9);
@@ -244,3 +245,4 @@ transition: opacity 0.5s;}
   
 }}
 }
+@media screen and (max-width:450px){#flex-colatiner{column-count:2;}}
