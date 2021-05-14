@@ -211,6 +211,7 @@ color:#3a3a3a}
   position:absolute;
   padding:30px;
   left:10%;
+  
 }
 .signup-form h2 {color:#fafafa;
   margin-bottom:20px;
@@ -227,6 +228,19 @@ color:#3a3a3a}
 #text-area{color:black;
 }
 #text-area:hover{border-color:rgb(235, 98, 9);}
+
+.join-button{margin-top:20px;
+  border-radius:1px;
+  padding:15px 15px 15px 15px;
+  text-align:center;
+  font-size:100%;
+  background-color:rgba(60, 60, 60, 0.6);
+  color:#fafafa;
+  position: absolute;}
+  .join-button:hover{background-color:rgb(235, 98, 9);
+    color: #fafafa;
+  animation-name: button-change;
+animation-duration: 3s;}
 @keyframes port-zoom {
   from{
   transform: scale(1);
@@ -235,6 +249,8 @@ color:#3a3a3a}
   transform: scale(1.1);
   }
   }
+  @keyframes button-change{from{color-adjust:rgba(60, 60, 60, 0.6) ;}
+to{color-adjust:rgb(235, 98, 9) ;}}
 
 /* media */
 @media screen and (max-width:1200px){ #flex-container{column-count: 5;}
