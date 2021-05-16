@@ -74,6 +74,7 @@ And that the hyperlinks were fullfilling the purpose set to them, and making sur
             alt="Valid CSS!" />
     </a>
 </p>
+ all of my HTML files pass the HTML validator. it just didn't offer the same copy and paste valid sticker as it did for CSS.
  
  ## Deployment 
  
