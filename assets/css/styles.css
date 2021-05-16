@@ -154,7 +154,8 @@ color:black}
 /* portfolio layout style.*/
 
 .container{display:grid;
-grid-template-columns: 1fr;}
+grid-template-columns: 1fr;
+text-decoration: none;}
 .portfolio-wrapper{display: grid;
 grid-template-columns: 1fr 1fr 1fr;}
 .flex-container{display: flex;
@@ -179,7 +180,7 @@ animation-duration: .5s;
 animation-fill-mode: forwards;
 }
 /* project mars*/
-.marstext{text-decoration: none;
+.marstext a {text-decoration: none;
 color: black;
 opacity:100%;
 animation-name: port-zoom;
