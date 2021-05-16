@@ -1,30 +1,40 @@
 # MS-Project-one-JPT
 
+![](readme-screenshots/cw-designs-home.png)
+
+<br>
+<br>
+
+## About
+
 for my first MileStone project I wanted to do something simple, that would also allow me to apply the lessons I have learnt in CSS and html modules.
 So I created a portfolio website for a graphics designer.
 
-## Why did i do this?
+## Table of Content
+* [ UX & UI](#my-ux-choices-and-my-ui-choices)
+* [Features](#features)
+* [Future Features](#future-features)
+* [Tech Used](#technologies-used)
+* [Testing](#testing)
+* [Deployment](#deployment)
 
-the reason why I went down this route is because it didn't require anything going on in the background, it helped my friend out, and also it allowed me to create transitions
-whilst also working on layout. It created challenges that only a three page html project wouldn't in total this is 13 html files all linking in. Some with target blanks
-and some without(I felt it was neccessary to create some that were active and sent you back to a original page such as portfolio.) This gave me a real world experience
-as it involved me talking to a client whilst simaltaniously working towards assignment brief.
+
+
 
 ## my UX choices and my UI choices.
 
 ### UX justification. 
-for my UX you can see this is almost primative and simple, this is justified for its purpose. As you can see it is very orange, this is on purpose as it is part of
-the designers logo and signature, this is part of the designers identity. Which I feel gives it a real personal effect, this makes it stand out in the eyes of simple
-stone wall grey background or white background etc etc add a thousand different designer portfolio pages they're all so similar. This is the oppourtunity to create something
-personal and unique, another note on the personal side is by having a portrait picture of the artist front and center with a bio. This provides familiarity and sense of knowing
-who it is you're working with, you know why you have searched up the artist so having the opening page as a bit about the artist really provides a sense knowing who and if this
-artist is appropriate.
+1. I wanted to create a clean looking website.
+2. by doing this it allows the portfolio to create the colour.
+3. by having a simple navigation it creates a pleasant user experience.
+4. Having the main three pages target blank it makes it very easy to navigate through the whole site in three tabs
+5. adding a hints of logo colours within the site allows the user to become familiar with the brand.
+6. by adding in a portrait of the artist it creates a sense of safety as you know who it is you're working with
 
 ### UI Justification.
-for my UI you can see that it has nice transitions, so although this may seem simple it does have nice touches to it including things like opacity fades and the nav bar
-underlining itself but with a slight delay to create a nice feeling it makes it feel smooth and not ridged. throughout the website you'll notice I have independent pictures
-of his portfolio, this allows the user to get a taste of what to expect from the website in question. I have alsp chosen these projects because it shows off the diverisity 
-of the artists in question.
+1.For my UI I have added colour changes to provide confirmation that the user is where they want to be for example on hover clickable parts will change colour.
+2.I have created slow animations at .5s to provide a smooth transition.
+3.I have added lots of line height for the text to allow the text to be easily legible. 
 
 ## Features.
 
@@ -66,19 +76,6 @@ And that the hyperlinks were fullfilling the purpose set to them, and making sur
  ## Deployment 
  
  For deployment I became easy to go from the coding platform I used to github-gitpod as I use VS code the only issues I really ran into was changing the file target locations within the gitpod as the gitpod won't have access to my C: drive so I need to make it target the files within the gitpod to make it all work appropriatley.
-# Screenshots of the project
-![](readme-screenshots/Home-screenshot.png)
-![](readme-screenshots/contact-screenshot.png)
-![](readme-screenshots/eaton-patisserie-screenshot.png)
-![](readme-screenshots/electronicfrontierfoundation-screenshot.png)
-![](readme-screenshots/fightingfit-screenshot.png)
-![](readme-screenshots/headlandfinance-screenshot.png)
-![](readme-screenshots/infinitymalegrooming-screenshot.png)
-![](readme-screenshots/nasa-screenshot.png)
-![](readme-screenshots/portfolio-screenshot.png)
-![](readme-screenshots/projectmars-screenshot.png)
-![](readme-screenshots/rearedready-screenshot.png)
-![](readme-screenshots/sidebar-screenshot.png)
-![](readme-screenshots/stsidwell-screenshot.png)
-![](readme-screenshots/superpackaging-screenshot.png)
+
+
 
