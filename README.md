@@ -1,5 +1,8 @@
 # MS-Project-one-JPT
 
+![](readme-screenshots/cw-designs-home.png)
+
+
 for my first MileStone project I wanted to do something simple, that would also allow me to apply the lessons I have learnt in CSS and html modules.
 So I created a portfolio website for a graphics designer.
 
@@ -66,19 +69,6 @@ And that the hyperlinks were fullfilling the purpose set to them, and making sur
  ## Deployment 
  
  For deployment I became easy to go from the coding platform I used to github-gitpod as I use VS code the only issues I really ran into was changing the file target locations within the gitpod as the gitpod won't have access to my C: drive so I need to make it target the files within the gitpod to make it all work appropriatley.
-# Screenshots of the project
-![](readme-screenshots/Home-screenshot.png)
-![](readme-screenshots/contact-screenshot.png)
-![](readme-screenshots/eaton-patisserie-screenshot.png)
-![](readme-screenshots/electronicfrontierfoundation-screenshot.png)
-![](readme-screenshots/fightingfit-screenshot.png)
-![](readme-screenshots/headlandfinance-screenshot.png)
-![](readme-screenshots/infinitymalegrooming-screenshot.png)
-![](readme-screenshots/nasa-screenshot.png)
-![](readme-screenshots/portfolio-screenshot.png)
-![](readme-screenshots/projectmars-screenshot.png)
-![](readme-screenshots/rearedready-screenshot.png)
-![](readme-screenshots/sidebar-screenshot.png)
-![](readme-screenshots/stsidwell-screenshot.png)
-![](readme-screenshots/superpackaging-screenshot.png)
+
+
 
