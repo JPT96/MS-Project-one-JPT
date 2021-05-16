@@ -38,28 +38,23 @@ So I created a portfolio website for a graphics designer.
 
 ## Features.
 
-Going over the features within my project, I have few features within my website these include things such as a contact section, a bio and a entire 11 html files dedicated to the
-artists portfolio. Some features that have been pointed out and disscussed within the UI and UX section are the hover and active CSS elements I have added to improve both these
-sections. A small feature I have added is simply taking out text decoration within the portfolio this tidys up the asthetic of the webiste whilst also acting as hyperlinks to
-the specific locations. (Please note that the instagram and the Facebook links DO NOT lead to these pages listed as the designer does not have appropriate work related Social 
-media. So instead it leads you to a youtube hyperlink to rick astleys never gonna give you up as it is a funny joke we still like to play between us also its a great song)
-
-Another feature within the index page is that there is a video at the bottom of the page this is not related to the artist in anyway ( in fact it is me playing guitar.
-this is only to fill in the LO that says you must add audio or video so I technically added both. This will not be left here in the future it is simply here to fullfill the 
-purpose of the assignment brief.) The video has controls as well so it doesn't automatically play it is a MP4 meaning it can be used across all search engines. 
+1. I have a topnav that is very simple to use.
+2. I have a flexbox layout of all the projects giving them two rows of 5 for desktop rows of 3 for tablets and 1 for phone.
+3. it has a simple enquiry process with links ot social media at the bottom of every page.
+4. a small bio for each portfolio project.  
 
 ### Future Features
 
 The future holds many posibilities and I want to come back to this project. Do I know all the changes I would like to make to this website? No, but there are a few things
 I would like to change and update;
  
- * I would like to add the company logo as a background image behind every portfolio picture. 
  * I would like to add a interaction bar on either side of the webiste. 
  * I would like to actually impliment other langauges down the line to this project to make it more professional and ready for the real world
 
 ## Technologies used
 
-For my technologies used it is very simple I used a library of images sent to me by the artist in question, language wise I only used HTML and CSS as outlined in the brief.
+HTML5. 
+CSS3.
 
 ## Testing
 
