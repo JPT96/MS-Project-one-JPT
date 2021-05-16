@@ -2,6 +2,9 @@
 
 ![](readme-screenshots/cw-designs-home.png)
 
+<br>
+<br>
+## About
 
 for my first MileStone project I wanted to do something simple, that would also allow me to apply the lessons I have learnt in CSS and html modules.
 So I created a portfolio website for a graphics designer.
