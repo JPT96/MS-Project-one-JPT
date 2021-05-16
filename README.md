@@ -67,6 +67,13 @@ Testing out the "<a>" making sure that they were linked all to the right place w
 And that the hyperlinks were fullfilling the purpose set to them, and making sure the right ones had the target="_blank" and the right ones simply sent you back to either
  the portfolio, contact or home page. Whilst others lead to seperate portfolios, it quickly became apparent that for this website to work I couldn't incorporate thirteen target 
  blanks as having thirteen tabs open for one singular portfolio website is far too much.
+ <p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
  
  ## Deployment 
  
