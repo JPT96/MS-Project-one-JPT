@@ -179,7 +179,7 @@ animation-duration: .5s;
 animation-fill-mode: forwards;
 }
 /* project mars*/
-#marstext{text-decoration: none;
+.marstext{text-decoration: none;
 color: black;
 opacity:100%;
 animation-name: port-zoom;
