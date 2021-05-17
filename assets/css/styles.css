@@ -35,7 +35,7 @@ h2{font-family:  'PT Sans', sans-serif;}
 margin:1%;
 padding:5%;
 color:#3a3a3a}
-
+ 
 .form-section {
   clear: left;
   
@@ -43,12 +43,13 @@ color:#3a3a3a}
   background-position: center;
   height: 150px;}
 .signup-form{margin:150px 10% 0 0;
-  color:#fff;
+  
   background-color:rgba(60, 60, 60, 0.6);
   max-width:400px;
-  position:absolute;
+  position:relative;
   padding:30px;
   left:10%;
+  display:contents;
   
 }
 .signup-form h2 {color:#fafafa;
@@ -66,7 +67,7 @@ color:#3a3a3a}
 #text-area{color:black;
 }
 #text-area:hover{border-color:rgb(235, 98, 9);}
-
+ 
 .join-button{margin-top:20px;
   border-radius:1px;
   padding:15px 15px 15px 15px;
