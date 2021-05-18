@@ -267,7 +267,7 @@ transition: opacity 0.5s;}
 }
 @media screen and (max-width:800px){.flex-container{column-count: 2;
   
-}}@media screen and (max-width:450px){.flex-container{column-count: 2;
+}}@media screen and (max-width:450px){.flex-container{column-count: 1;
 }
 }}
 /* text media quieres */
