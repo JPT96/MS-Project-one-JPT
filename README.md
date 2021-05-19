@@ -37,9 +37,8 @@ So I created a portfolio website for a graphics designer.
 3.I have added lots of line height for the text to allow the text to be easily legible. 
 
 ## Features.
-
 1. I have a topnav that is very simple to use.
-2. I have a flexbox layout of all the projects giving them two rows of 5 for desktop rows of 3 for tablets and 1 for phone.
+2. I have a flexbox layout of all the projects giving them two rows of 4 for desktop rows of 2 for tablets and 1 for phone.
 3. it has a simple enquiry process with links ot social media at the bottom of every page.
 4. a small bio for each portfolio project.  
 
@@ -78,7 +77,7 @@ And that the hyperlinks were fullfilling the purpose set to them, and making sur
  
  ## Deployment 
  
- For deployment I became easy to go from the coding platform I used to github-gitpod as I use VS code the only issues I really ran into was changing the file target locations within the gitpod as the gitpod won't have access to my C: drive so I need to make it target the files within the gitpod to make it all work appropriatley.
+ For deployment it became easy to go from VS-code to github-gitpod, as I use VS code the only issues I really ran into was changing the file target locations within the gitpod. As the gitpod won't have access to my C: drive so I need to make it target the files within the gitpod to make it all work appropriatley.
 
 
 
