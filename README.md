@@ -41,6 +41,7 @@ So I created a portfolio website for a graphics designer.
 2. I have a flexbox layout of all the projects giving them two rows of 4 for desktop rows of 2 for tablets and 1 for phone.
 3. it has a simple enquiry process with links ot social media at the bottom of every page.
 4. a small bio for each portfolio project.  
+5. Target_blanks have been left in on purpose to prove that I know how to use them. These will occur on the home page, and the portfolio page. When navigating to the contact page.
 
 ### Future Features
 
