@@ -71,7 +71,16 @@ color:#3a3a3a}
 #text-area{color:black;
 }
 #text-area:hover{border-color:rgb(235, 98, 9);}
- 
+.enquiry{color:#000000;
+  width: 25%;
+  height:25px;
+  margin:5px 0 0 18px;
+  border:1px solid black; 
+  border-radius:4px  ;
+  width: 100%;
+  max-width: 300px;
+} 
+.enquiry:hover{border-color:rgb(235, 98, 9);}
 .join-button{margin-top:20px;
   border-radius:1px;
   padding:15px 15px 15px 15px;
@@ -307,3 +316,6 @@ text-align: center;}
 /* image media */
 @media screen and (max-width:450px){img{max-width: 250px;}}
 @media screen and (max-width:450px){.logo{max-width: 250px;}}
+/*contact page media quieries*/
+@media screen and (max-width:450px){.social-media{ margin-top:100px;}
+}
