@@ -23,28 +23,27 @@
 <img src="assets/css/images/chris-portrait.jpeg" class="portrait-pic" id="contact-img" style="width:200px" alt="portrait-pic">    
 <h3 id="contact-title">Christopher Wilson -  Graphic Designer</h3>
 <p class="contact-txt">Contact me here.</p>
+<section class="form-section">
     <section class="form-section">
-        
-        <form class="signup-form">
-            <label for="fname"> First Name </label> 
-            <input type="text" class="text-input" id="fname" name="first_name" required>
-            <label for="email"> Email </label>
-            <input type="email" class="text-input" id="email" name="email_address"  required>
-            <br>
-            <label>Write your message here</label>
-            <textarea rows="3" cols="50" id="text-area" placeholder="Why do you want go for the Editor Job Profile? (100 words)">
-            </textarea>
-        </form>
-   
+    <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-form">
+        <label for="fname"> First Name </label>
+        <input type="text" class="text-input" id="fname" name="first_name" required>
+        <label for="lname"> Last Name</label> 
+       <input for="lname" class="text-input" id="lname" name="last_name"  required>
+       <label for="Enquiry"> Enquiry </label>
+         <textarea type="text" class="text-input" id="Enquiry" name="Enquiry"  required>
+         
+      
+        <input type="submit" class="join-button"  value="Submit" id="Submit">
+    </form>
+</section>
              
 
-<br>
-</section> 
-<input type="submit" class="join-button">
+
 <br>
 
 <br>
-<p class="contact-txt" id="contact">I look forward to hearing from you.</p>
+<!-- <p class="contact-txt" id="contact">I look forward to hearing from you.</p><!-->
 
 <footer ><ul class="social-media">
         
