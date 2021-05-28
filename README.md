@@ -22,6 +22,12 @@ So I created a portfolio website for a graphics designer.
 
 
 ## my UX choices and my UI choices.
+<br>
+### user stories
+*when a user comes to my site, I want my portfolio easily laid out and very easy to navigate. 
+
+1.want the website easy to understand and the layout to be self explainatry.
+2. I want it to be visually appealing with the layout so it looks clean and professional.
 
 ### UX justification. 
 1. I wanted to create a clean looking website.
@@ -43,6 +49,27 @@ So I created a portfolio website for a graphics designer.
 4. a small bio for each portfolio project.  
 5. Target_blanks have been left in on purpose to prove that I know how to use them. These will occur on the home page, and the portfolio page. When navigating to the contact page.
 
+## design
+
+* color scheme 
+the main goal for this website was to keep it linked with the brand colors. These colors are;<br>
+rgb(235, 98, 9);
+rgb(74, 74, 73);
+The way it is laid out is to have hints of these colors all across the website to tie it in with the logo.
+
+* fonts
+the main font within the body is Lato and secondary is sans-serif and headers are Oswald. 
+This combo works really well and adds a level of sophistication and it is a very easy font to read.
+
+* imagery
+The images are everything in this website. The portrait shows familiarity with the graphic designer.
+the portfolio itself needs to be a fair size so you can see the work as well as wanting to click on the portfolio.
+
+* wireframes
+Here are my wire frames they are very simple and not the best but it shows the basic layout of the website.
+![](readme-screenshots/wireframe-screenshot.png)
+
+
 ### Future Features
 
 The future holds many posibilities and I want to come back to this project. Do I know all the changes I would like to make to this website? No, but there are a few things
@@ -53,8 +80,10 @@ I would like to change and update;
 
 ## Technologies used
 
-HTML5. 
-CSS3.
+[html 5]<https://en.wikipedia.org/wiki/HTML5>
+<br>
+[CSS3] <https://en.wikipedia.org/wiki/CSS>
+
 
 ## Testing
 
