@@ -61,7 +61,7 @@ color:#3a3a3a}
   height:25px;
   margin:5px 0 20px 0;
   border:1px solid black; 
-  border-radius:2px;
+  border-radius:4px  ;
 }
 .text-input:hover {border-color:rgb(235, 98, 9);}
 #text-area{color:black;
