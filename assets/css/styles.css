@@ -317,7 +317,8 @@ text-align: center;}
 @media screen and (max-width:450px){img{max-width: 250px;}}
 @media screen and (max-width:450px){.logo{max-width: 250px;}}
 /*contact page media quieries*/
-@media screen and (max-width:450px){.social-media{ margin-top:100px;}
+@media screen and (max-width:450px){.social-media{ margin-top:100px;text-align-last: justify;
+  margin-right: 35px;}
 }@media screen and (max-width:450px){.join-button{ 
 position: relative;}
 }
