@@ -70,6 +70,13 @@ Here are my wire frames they are very simple and not the best but it shows the b
 ![](readme-screenshots/wireframe-screenshot.png)
 
 
+* top-nav - allows user to easily navigate across all pages
+The header itself is positioned to always be visible, at the top of the screen (mobile and desktop) which allows visitors to find it quickly.
+
+* colors have been used to be incorporated with the brand 
+
+* Accessibility
+All Pages have a description in case the image link breaks as well as helps screen readers.
 ### Future Features
 
 The future holds many posibilities and I want to come back to this project. Do I know all the changes I would like to make to this website? No, but there are a few things
@@ -83,6 +90,8 @@ I would like to change and update;
 [html 5]<https://en.wikipedia.org/wiki/HTML5>
 <br>
 [CSS3] <https://en.wikipedia.org/wiki/CSS>
+[gitpod] <https://www.gitpod.io/>
+[github] <https://github.com/>
 
 
 ## Testing
@@ -105,9 +114,26 @@ And that the hyperlinks were fullfilling the purpose set to them, and making sur
 </p>
  all of my HTML files pass the HTML validator. it just didn't offer the same copy and paste valid sticker as it did for CSS.
  
- ## Deployment 
+ ## bugs
+ There a no known bugs.
  
- For deployment it became easy to go from VS-code to github-gitpod, as I use VS code the only issues I really ran into was changing the file target locations within the gitpod. As the gitpod won't have access to my C: drive so I need to make it target the files within the gitpod to make it all work appropriatley.
+ ## Deployment 
+ ### publishing
+ 1. Go to the GitHub website and log in.
+2. On the left-hand side, you'll see all your repositories, select the appropriate one. (Repository used for this project).
+3. Under the name of your chosen Repository you will see a ribbon of selections, click on 'Settings' located on the right hand side.
+4. Scroll down till you see 'GitHub Pages' heading. 
+ 5. Under the 'Source' click on the dropdown and select 'master branch' 
+ 6. The page will reload and you'll see the link of your published page displayed under 'GitHub' pages. 
+ 7. It takes a few minutes for the site to be published, wait until the background of your link changes to a green color before trying to open it.
+ 
+ ### forking
+ if you would like to fork the project and give it a try without effecting it this is the method to do so.
+1. Go to the GitHub website and log in.
+2. Locate the Repository used for this project.
+3. On the right-hand side of the Repository name, you'll see the 'Fork' button. It's located next to the 'Star' and 'Watch' buttons.
+4. This will create a copy in your personal repository. 
+5. Once you're finished making changes you can locate the 'New Pull Request' button just above the file listing in the original repository.
 
 
 
