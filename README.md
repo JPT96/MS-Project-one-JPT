@@ -90,9 +90,14 @@ I would like to change and update;
 [html 5]<https://en.wikipedia.org/wiki/HTML5>
 <br>
 [CSS3] <https://en.wikipedia.org/wiki/CSS>
+<br>
 [gitpod] <https://www.gitpod.io/>
+<br>
 [github] <https://github.com/>
-
+<br>
+[fontawesome] <https://fontawesome.com/>
+<br>
+[google fonts] <https://fonts.google.com/>
 
 ## Testing
 
