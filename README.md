@@ -26,7 +26,7 @@ So I created a portfolio website for a graphics designer.
 ### user stories
 *when a user comes to my site, I want my portfolio easily laid out and very easy to navigate. 
 
-1.want the website easy to understand and the layout to be self explainatry.
+1. want the website easy to understand and the layout to be self explainatry.
 2. I want it to be visually appealing with the layout so it looks clean and professional.
 
 ### UX justification. 
@@ -38,9 +38,9 @@ So I created a portfolio website for a graphics designer.
 6. by adding in a portrait of the artist it creates a sense of safety as you know who it is you're working with
 
 ### UI Justification.
-1.For my UI I have added colour changes to provide confirmation that the user is where they want to be for example on hover clickable parts will change colour.
-2.I have created slow animations at .5s to provide a smooth transition.
-3.I have added lots of line height for the text to allow the text to be easily legible. 
+1. For my UI I have added colour changes to provide confirmation that the user is where they want to be for example on hover clickable parts will change colour.
+2. I have created slow animations at (.5s) to provide a smooth transition.
+3. I have added lots of line height for the text to allow the text to be easily legible. 
 
 ## Features.
 1. I have a topnav that is very simple to use.
@@ -125,20 +125,14 @@ And that the hyperlinks were fullfilling the purpose set to them, and making sur
  ## Deployment 
  ### publishing
  1. Go to the GitHub website and log in.
-2. On the left-hand side, you'll see all your repositories, select the appropriate one. (Repository used for this project).
-3. Under the name of your chosen Repository you will see a ribbon of selections, click on 'Settings' located on the right hand side.
-4. Scroll down till you see 'GitHub Pages' heading. 
+ 2. On the left-hand side, you'll see all your repositories, select the appropriate one. (Repository used for this project).
+ 3. Under the name of your chosen Repository you will see a ribbon of selections, click on 'Settings' located on the right hand side.
+ 4. Scroll down till you see 'GitHub Pages' heading. 
  5. Under the 'Source' click on the dropdown and select 'master branch' 
  6. The page will reload and you'll see the link of your published page displayed under 'GitHub' pages. 
  7. It takes a few minutes for the site to be published, wait until the background of your link changes to a green color before trying to open it.
  
- ### forking
- if you would like to fork the project and give it a try without effecting it this is the method to do so.
-1. Go to the GitHub website and log in.
-2. Locate the Repository used for this project.
-3. On the right-hand side of the Repository name, you'll see the 'Fork' button. It's located next to the 'Star' and 'Watch' buttons.
-4. This will create a copy in your personal repository. 
-5. Once you're finished making changes you can locate the 'New Pull Request' button just above the file listing in the original repository.
+ 
 
 
 
